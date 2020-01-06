@@ -1,7 +1,9 @@
-.cards-page {
+.awesomeTable-visualization-cards > div:nth-child(2) {
     display: none;
 }
-
-.card-content {
+.awesomeTable-visualization-cards .card-content {
+    box-shadow: none;
     text-align: center;
 }
+
+
