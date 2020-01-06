@@ -1,9 +1,22 @@
-.awesomeTable-visualization-cards > div:nth-child(2) {
+.awesomeTable-visualization-cards > div:nth-child(2),
+#dashboard .at-layout-horizontal.at-action-panel.at-layout-container,
+#dashboard .awesomeTable-visualization-cards .cards-page .cards-pageNumber,
+#dashboard .at-action-menu {
     display: none;
 }
-.awesomeTable-visualization-cards .card-content {
+#dashboard .awesomeTable-visualization-cards .card-content {
     box-shadow: none;
     text-align: center;
+}
+#dashboard .awesomeTable-visualization-cards .cards-page {
+    border: 0;
+}
+#dashboard .awesomeTable-visualization-cards .cards-page .cards-page-button {
+    margin: 0 auto;
+}
+#dashboard .awesomeTable-visualization-cards .card-content p.myTitle {
+    color: #4e4d4d!important;
+    letter-spacing: 0;
 }
 
 
