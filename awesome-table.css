@@ -15,9 +15,23 @@
     margin: 0 auto;display: none;
 }
 #dashboard .awesomeTable-visualization-cards .card-content p.myTitle {
-    color: #4e4d4d!important;
+   color: #4e4d4d!important;
     letter-spacing: 0;
     font-family: 'Oswald', sans-serif;
+    font-weight: 500 !important;
+    font-size: 25px !important;
+}
+#dashboard .description hr {
+    background: none;
+    height: 0;
+    margin: 0;
+}
+#dashboard .awesomeTable-visualization-cards .card {
+    border: 1px solid #eaeaea;
+    margin: 2px;
+}
+#dashboard .awesomeTable-visualization-cards .card:empty {
+    border: 0;
 }
 
 
