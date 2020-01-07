@@ -12,7 +12,7 @@
     border: 0;
 }
 #dashboard .awesomeTable-visualization-cards .cards-page .cards-page-button {
-    margin: 0 auto;
+    margin: 0 auto;display: none;
 }
 #dashboard .awesomeTable-visualization-cards .card-content p.myTitle {
     color: #4e4d4d!important;
