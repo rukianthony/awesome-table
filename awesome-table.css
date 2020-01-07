@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald:400,500,600&display=swap');
+
 #dashboard .awesomeTable-visualization-cards .cards-page .cards-pageNumber,
 #dashboard .at-action-menu {
     display: none;
@@ -15,6 +17,7 @@
 #dashboard .awesomeTable-visualization-cards .card-content p.myTitle {
     color: #4e4d4d!important;
     letter-spacing: 0;
+    font-family: 'Oswald', sans-serif;
 }
 
 
