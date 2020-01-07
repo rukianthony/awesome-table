@@ -1,0 +1,21 @@
+#dashboard .awesomeTable-visualization-cards .cards-page .cards-pageNumber,
+#dashboard .at-action-menu,
+.at-layout-vertical>.at-action-panel{
+    display: none;
+}
+#dashboard .awesomeTable-visualization-cards .card-content {
+    box-shadow: none;
+    text-align: center;
+}
+#dashboard .awesomeTable-visualization-cards .cards-page {
+    border: 0;
+}
+#dashboard .awesomeTable-visualization-cards .cards-page .cards-page-button {
+    margin: 0 auto;
+}
+#dashboard .awesomeTable-visualization-cards .card-content p.myTitle {
+    color: #4e4d4d!important;
+    letter-spacing: 0;
+}
+
+
