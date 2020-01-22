@@ -1,6 +1,7 @@
 #dashboard .awesomeTable-visualization-cards .cards-page .cards-pageNumber,
-#dashboard .at-action-menu,
-.at-layout-vertical>.at-action-panel{
+#dashboard .at-action-menu, 
+.at-layout-vertical>.at-action-panel,
+#dashboard .awesomeTable-visualization-cards .cards-page:nth-child(2) {
     display: none;
 }
 #dashboard .awesomeTable-visualization-cards .card-content {
